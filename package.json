@@ -21,7 +21,7 @@
     "url":          "git://github.com/undashes/ninja-build.git"
   },
   "scripts": {
-    "preinstall" :  "./bootstrap"
+    "preinstall" :  "bash ./bootstrap"
   },
   "engines": {
     "node":         ">=0.8.0"
